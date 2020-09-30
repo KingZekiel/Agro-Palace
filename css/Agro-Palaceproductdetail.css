@@ -3,7 +3,7 @@
 }
 .productdetailpage{
     position: absolute;
-    width: 100%;
+    width: 1440px;
     height: 300%;
     left: 0px;
     top: 0px;
@@ -13,7 +13,7 @@
 }
 .header{
     position: absolute;
-    width: 100%;
+    width: 1440px;
     height: 80px;
     left: 0px;
     top: 0px;
@@ -22,7 +22,7 @@
 }
 .navbar{
     position: absolute;
-    width: 1340px;
+    width: 1440px;
     height: 30px;
     left: 0px;
     top: 50px;
@@ -98,15 +98,12 @@
     background: #227A02;
     border-radius: 0px 8px 8px 0px;
 }
-.fa{
-    left: 1000px;
-}
 .signinbtn{
     position: absolute;
     width: 80px;
-    height: 32px;
-    left: 1210px;
-    top: 15px;
+    height: 40px;
+    left: 1319px;
+    top: 5px;
     background: #227A02;
     border: 1px solid rgba(0, 0, 0, 0.33);
     box-sizing: border-box;
@@ -115,7 +112,7 @@
     font: outline;
     cursor: pointer;
     font-family: "Amazon Ember",Arial,sans-serif;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 19px;
     color: white;
     font-weight: bolder;
@@ -123,9 +120,9 @@
 .signupbtn{
     position: absolute;
     width: 80px;
-    height: 32px;
-    left: 1120px;
-    top: 15px;
+    height: 40px;
+    left: 1200px;
+    top: 5px;
     background: #227A02;
     border: 1px solid rgba(0, 0, 0, 0.33);
     box-sizing: border-box;
@@ -134,7 +131,7 @@
     font: outline;
     cursor: pointer;
     font-family: "Amazon Ember",Arial,sans-serif;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 19px;
     color: white;
     font-weight: bolder;
@@ -144,32 +141,34 @@
     background: #FFFCFC;
     border-radius: 10px;
     position: absolute;
-    width: 900px;
-    height: 500px;
-    left: 70px;
+    width: 1050px;
+    height: 699.73px;
+    left: 45px;
     top: 100px;
 }
 .container1>img{
     position: absolute;
-    width: 300px;
-    height: 300px;
-    left: 45px;
+    width: 445px;
+    height: 443.09px;
+    left: 25px;
     top: 30px;
     backdrop-filter: blur(4px);
+
 }
 .col-sm-4{
     position: absolute;
-    width: 300px;
-    height: 70px;
-    left: 43px;
-    top: 320px;
+    width: 465px;
+    height: 120px;
+    left: 25px;
+    top: 470px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
+    
 }
 .col-sm-4>img{
     position: absolute;
-    width: 66px;
-    height: 66px;
+    width: 120px;
+    height: 115px;
     left: 4px;
     top: 4px;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
@@ -177,40 +176,42 @@
 }
 .col-sm-5>img{
     position: absolute;
-    width: 82px;
-    height: 70px;
-    left: 60px;
+    width: 115px;
+    height: 125px;
+    left: 120px;
     top: 2px;
     border-radius: 10px;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 .col-sm-6>img{
     position: absolute;
-    width: 80px;
-    height: 68px;
-    left: 135px;
+    width: 118px;
+    height: 113.13px;
+    left: 230px;
     top: 2px;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
     border-radius: 10px;
 }
 .col-sm-7>img{
     position: absolute;
-    width: 80px;
-    height: 68px;
-    left: 216px;
+    width: 120px;
+    height: 113.13px;
+    left: 350px;
     top: 2px;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
     border-radius: 10px;
 }
 .container2{
     position: absolute;
-    width: 530px;
-    height: 130px;
-    left: 350px;
+    width: 543px;
+    height: 159.22px;
+    left: 490px;
     top: 27px;
     background: #FAF8F8;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 5px;
+    width: 543px;
+    height: 159.22px;
 }
 .container2>h1{
     position: absolute;
@@ -247,11 +248,16 @@
     width: 30px;
     height: 30px;
 }
+.fa-cart-arrow-down{
+    padding: 0px 729px;
+    color: white;
+    margin-top: -5px;
+}
 .container3{
     position: absolute;
-    width: 530px;
+    width: 543px;
     height: 55px;
-    left: 350px;
+    left: 490px;
     top: 185px;
     background: #227A02;
     box-shadow: 0px 3px 3px #227A02;
@@ -270,7 +276,7 @@
 }
 .fa-cart-plus{
     color:white;
-    padding: 195px 370px;
+    padding: 195px 500px;
     size: 150px;
     width: 30px;
     height: 30px;
@@ -294,8 +300,8 @@
 .rightcontainer1{
     position: absolute;
     width: 289px;
-    height: 350px;
-    left: 1000px;
+    height: 451.47px;
+    left: 1110px;
     top: 100px;
     background: #FFFFFF;
     border: 1px solid rgba(0, 0, 0, 0.33);
