@@ -1782,6 +1782,10 @@ ol {
 	background-color: #7db569;
 }
 
+.carouselExampleIndicators{
+	height: 100vh;
+}
+
 
 .pro-qty {
 	width: 140px;
