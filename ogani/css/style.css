@@ -1771,6 +1771,15 @@ ol {
 	margin-right: 6px;
 }
 
+.page-footer{
+	color: #fff;
+}
+
+.page-footer a{
+	color: #1ecbe1;
+}
+
+
 .pro-qty {
 	width: 140px;
 	height: 50px;
