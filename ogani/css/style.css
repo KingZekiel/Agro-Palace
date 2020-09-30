@@ -30,8 +30,6 @@
 /* Template default CSS
 /*----------------------------------------*/
 
-.nav-bar-1{
-}
 html,
 body {
 	height: 100%;
@@ -253,7 +251,7 @@ ol {
 -----------------------*/
 
 .header__top {
-	background:#679F52;
+	background: #f5f5f5;
 }
 
 .header__top__left {
@@ -1044,7 +1042,6 @@ ol {
 	display: flex;
 	align-items: center;
 	padding: 45px 0 40px;
-	background:#7fad39;££££
 }
 
 .breadcrumb__text h2 {
@@ -2616,7 +2613,7 @@ ol {
   Footer
 -----------------------*/
 
-.footer {
+/*.footer {
 	background: #F3F6FA;
 	padding-top: 70px;
 	padding-bottom: 0;
@@ -2745,7 +2742,7 @@ ol {
 .footer__copyright__payment {
 	float: right;
 }
-
+*/
 /*---------------------
   Contact
 -----------------------*/
