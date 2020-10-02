@@ -97,7 +97,8 @@ textarea:focus {
 }
 
 a:hover,
-a:focus {
+a:focus,
+a:any-link{
 	text-decoration: none;
 	outline: none;
 	color: #ffffff;
